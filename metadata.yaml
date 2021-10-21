@@ -1,5 +1,8 @@
 _repo: Our-Lady-of-Darkness_66489
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66489-h/images/cover.jpg
 creator:
   author:
     agent_name: Capes, Bernard Edward Joseph
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5344
     wikipedia: https://en.wikipedia.org/wiki/Bernard_Capes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66489#Our-Lady-of-Darkness
 gutenberg_issued: '2021-10-07'
 identifiers:
   gutenberg: '66489'
